@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TransferWorker",
+    "\\TransferWorker.UI",
+    "\\TransferWorker.UI\\ViewModels",
+    "\\TransferWorker.UI\\Views",
+    "\\TransferWorker\\Helpers",
+    "\\TransferWorker\\Properties",
+    "\\TransferWorker\\Utility"
+  ],
+  "SelectedNode": "\\TransferWorker.UI\\ViewModels\\ConfigDetailViewModel.cs",
+  "PreviewInSolutionExplorer": false
+}
